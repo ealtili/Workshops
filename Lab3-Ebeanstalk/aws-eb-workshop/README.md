@@ -16,7 +16,7 @@ Everything that we wil be doing in these labs can be also done in the web interf
 
 We strongly recommend you to spin up a Linux EC2 instance. None of these labs were even tested in Windows environments.
 
-## 4) Enough of jibber jabber...
+## 4) Lets Start...
 
 Go sharp your Elastic Beanstalk skills and take over the world.
 
